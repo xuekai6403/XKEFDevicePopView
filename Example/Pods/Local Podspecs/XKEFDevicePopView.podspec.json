@@ -1,0 +1,22 @@
+{
+  "name": "XKEFDevicePopView",
+  "version": "0.1.0",
+  "summary": "A short description of XKEFDevicePopView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xuekai6403/XKEFDevicePopView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuekai6403": "xeb6723@dingtalk.com"
+  },
+  "source": {
+    "git": "https://github.com/xuekai6403/XKEFDevicePopView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XKEFDevicePopView/Classes/**/*"
+}

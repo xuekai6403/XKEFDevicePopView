@@ -1,0 +1,6 @@
+framework module Pods_XKEFDevicePopView_Tests {
+  umbrella header "Pods-XKEFDevicePopView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

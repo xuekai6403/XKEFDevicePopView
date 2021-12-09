@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - XKEFDevicePopView (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - XKEFDevicePopView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  XKEFDevicePopView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  XKEFDevicePopView: 64e819d67a28c961bd36b1a17ec348ed205d4936
+
+PODFILE CHECKSUM: f8e364742cf8f328df471a111d3e49673eb39712
+
+COCOAPODS: 1.10.1

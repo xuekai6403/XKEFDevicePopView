@@ -1,0 +1,6 @@
+framework module XKEFDevicePopView {
+  umbrella header "XKEFDevicePopView-umbrella.h"
+
+  export *
+  module * { export * }
+}
